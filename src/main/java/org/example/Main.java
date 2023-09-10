@@ -32,7 +32,7 @@ public class Main {
         cookieElements.click();
 
         driver.findElement(By.xpath("//a[@target='_blank' and contains(text(),'Live Demo')]")).click();
-
+        String aa="sdadasda";
 
 
     }
